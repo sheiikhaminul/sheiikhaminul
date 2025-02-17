@@ -1,16 +1,15 @@
-## Hi there 👋
+<h3 align="center">A recent graduate from AUST! 🚀</h3>
 
-<!--
-**sheiikhaminul/sheiikhaminul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
+ 
+ 🔭 I’m currently working on **web development**  
+ 
+ 🌱 I’m currently learning **JavaScript & MongoDB**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about **Tech, coding, or anything [here](https://github.com/sheiikhaminul/sheiikhaminul/issues)**  
+
+⚡ Fun fact: **"Riding a motorcycle is like flying—just closer to the ground and with unexpected snacks!"** 🏍️   
+
+</div>
