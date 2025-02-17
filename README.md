@@ -41,4 +41,17 @@
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,tensorflow,pytorch,linux,ubuntu,latex,matlab" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,arduino,vscode,visualstudio,androidstudio,pycharm,photoshop" /><br>
 </div>
+<br/>
+
+
+<div align="center">
+  <h2>🎯 My Contributions </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sheiikhaminul/sheiikhaminul/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 
