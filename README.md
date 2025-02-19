@@ -53,5 +53,7 @@
 </div>
 
 <hr/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stat-mu.vercel.app?user=sheiikhaminul&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&ring=6F0000&currStreakLabel=860707&fire=AD0000&sideNums=7C7C7C" alt="GitHub Streak" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
