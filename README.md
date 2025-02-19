@@ -48,13 +48,16 @@
 <h2>⚡ My GitHub Stats </h2>
 <br>
 <a href="https://git.io/streak-stats">
-    <img align="left" src="https://github-readme-streak-stat-mu.vercel.app?user=sheiikhaminul&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&ring=6F0000&currStreakLabel=860707&fire=AD0000&sideNums=7C7C7C" alt="GitHub Streak" />
+    <img align="center" src="https://github-readme-streak-stat-mu.vercel.app?user=sheiikhaminul&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&ring=6F0000&currStreakLabel=860707&fire=AD0000&sideNums=7C7C7C" alt="GitHub Streak" />
 </a>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sheiikhaminul&show_icons=true&theme=dark&locale=en" alt="sheiikhaminul" />
-</p>
-
+<br>
+<br>  
+<br>     
+<div align="center">
+    <p>
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=sheiikhaminul&show_icons=true&theme=dark&locale=en" alt="sheiikhaminul" />
+    </p>
+</div>
 <br clear="both">
 
 <div align="center">
