@@ -45,15 +45,31 @@
 
 
 <div align="center">
+<h2>⚡ My GitHub Stats </h2>
+<br>
+<a href="https://git.io/streak-stats">
+    <img align="left" src="https://github-readme-streak-stat-mu.vercel.app?user=sheiikhaminul&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&ring=6F0000&currStreakLabel=860707&fire=AD0000&sideNums=7C7C7C" alt="GitHub Streak" />
+</a>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sheiikhaminul&show_icons=true&theme=dark&locale=en" alt="sheiikhaminul" />
+</p>
+
+<br clear="both">
+
+<div align="center">
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheiikhaminul&show_icons=true&theme=dark&title_color=d6d6d6&text_color=999999&bg_color=1c1c1c&locale=en&layout=compact" alt="sheiikhaminul" />
+    </p>
+</div>
+<br>
+<div align="center">
   <h2>🎯 My Contributions </h2>
-  <br>
+  
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sheiikhaminul/sheiikhaminul/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
-<hr/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stat-mu.vercel.app?user=sheiikhaminul&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&ring=6F0000&currStreakLabel=860707&fire=AD0000&sideNums=7C7C7C" alt="GitHub Streak" /></a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
