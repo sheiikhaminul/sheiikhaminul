@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sheiikhaminul.sheiikhaminul" />
 <br/>
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&color=7E0D0FF6&center=true&vCenter=true&multiline=true&width=1350&height=200&lines=Hey!+It's+Sheikh+Aminul.+💬;🖥️+Coding+and+problem-solving+are+my+jam!+⚙️" 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&color=7E0D0FF6&center=true&vCenter=true&multiline=true&width=1350&height=150&lines=Hey!+It's+Sheikh+Aminul.+💬;🖥️+Coding+and+problem-solving+are+my+jam!+⚙️" 
     alt="Typing SVG" />
 </a>
 
