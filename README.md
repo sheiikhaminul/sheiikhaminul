@@ -14,7 +14,7 @@
  
  🔭 I’m building in the world of **web development**  
  
- 🌱 Currently diving into **JavaScript & MongoDB**  
+ 🌱 Currently diving into **Python & PostgreSQL**  
 
 💬 Let's talk **Tech, coding, or anything else** you are curious about [here](https://github.com/sheiikhaminul/sheiikhaminul/issues)
 
