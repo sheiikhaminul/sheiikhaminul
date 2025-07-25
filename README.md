@@ -1,10 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sheiikhaminul.sheiikhaminul" />
 <br/>
-    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&color=7E0D0FF6&center=true&vCenter=true&multiline=true&width=1350&height=150&lines=Hey!+It's+Sheikh+Aminul.+💬;🖥️+Coding+and+problem-solving+are+my+jam!+⚙️" 
-    alt="Typing SVG" />
-</a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=200&color=7E0D0FF6&center=true&vCenter=true&multiline=true&width=1350&height=150&lines=Hey!+It's+Sheikh+Aminul.+%F0%9F%92%AC;%F0%9F%96%A5%EF%B8%8F+Coding+and+problem-solving+are+my+jam!+%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a>
 <br/>
 <h3 align="center">A recent graduate from AUST! 🚀</h3>
 
