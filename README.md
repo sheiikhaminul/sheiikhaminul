@@ -33,8 +33,8 @@
 <h2 align="center">📌 Tech Stack: Languages, Frameworks, Databases & IDEs ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,javascript,php,python,kotlin,threejs,html,css,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,tensorflow,pytorch,linux,ubuntu,latex,matlab" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,java,php,kotlin,threejs,html,css,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,tensorflow,pytorch,linux,ubuntu,latex,matlab" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,arduino,vscode,visualstudio,androidstudio,pycharm,photoshop" /><br>
 </div>
 <br/>
