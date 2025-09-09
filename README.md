@@ -1,18 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sheiikhaminul.sheiikhaminul" />
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=200&color=7E0D0FF6&center=true&vCenter=true&multiline=true&width=1350&height=150&lines=Hey!+It's+Sheikh+Aminul.+%F0%9F%92%AC;%F0%9F%96%A5%EF%B8%8F+Coding+and+problem-solving+are+my+jam!+%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=200&color=7E0D0FF6&center=true&vCenter=true&multiline=true&width=1350&height=150&lines=Hey!+It's+Sheikh+Aminul.+%F0%9F%92%AC;%F0%9F%96%A5%EF%B8%8F+Analytics+and+problem-solving+are+my+jam!+%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a>
 <br/>
-<h3 align="center">A recent graduate from AUST! 🚀</h3>
+<h3 align="center">A graduate from AUST! 🚀</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m building in the world of **web development**  
+ 🔭 I’m building in the world of **Data Analytics & BI Development**  
  
- 🌱 Currently diving into **JavaScript & PostgreSQL**  
+ 🌱 Currently diving into **Tableau and PowerBI**  
 
-💬 Let's talk **Tech, coding, or anything else** you are curious about [here](https://github.com/sheiikhaminul/sheiikhaminul/issues)
+💬 Let's talk **Tech, analytics, or anything else** you are curious about [here](https://github.com/sheiikhaminul/sheiikhaminul/issues)
 
 ⚡ Fun fact: **"Riding a motorcycle is like flying—just closer to the ground and with unexpected snacks!"** 🏍️   
 
@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/sheiikhaminul" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A3981?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  <a href="https://sheiikhaminul.github.io" target="_blank" style="margin: 0 10px;">
+  <a href="https://sheiikhaminul.netlify.app/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Portfolio-800000?style=for-the-badge&logo=link&logoColor=white" />
   </a>
 </div>
